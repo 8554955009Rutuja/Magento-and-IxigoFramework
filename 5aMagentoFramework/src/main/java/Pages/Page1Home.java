@@ -91,7 +91,7 @@ public class Page1Home extends TestBase{
 	    inputemail.sendKeys("rutujamohite@gmail.com"); Thread.sleep(1000);
 		inputFirstName.sendKeys("Rutuja");                              Thread.sleep(500);
 	   inputLastName.sendKeys("Mohite");                              Thread.sleep(500);
-	   inputCompany.sendKeys("velocity");                              Thread.sleep(500);
+	   inputCompany.sendKeys("xyz");                              Thread.sleep(500);
 	   inputStreetAddress.sendKeys("Kharadi Bypass PUNE");Thread.sleep(500);
 	   inputCity.sendKeys("Pune");                                              Thread.sleep(500);
    
